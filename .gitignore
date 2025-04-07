@@ -1,6 +1,0 @@
-/.coverage
-/htmlcov
-/dist
-*.pyc
-*.egg-info
-/.mutmut-cache
